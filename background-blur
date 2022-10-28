@@ -1,0 +1,6 @@
+<style>
+.background-blur {
+	backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+</style>
